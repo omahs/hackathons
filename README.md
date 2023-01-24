@@ -14,7 +14,7 @@ In general, hackathons:
 There are plenty of reasons to participate:
 
 -   Networking/making friends
--   Test and level-up your skills
+-   Test and level up your skills
 -   Exposure to new technology, tools, and problem areas
 -   Receive mentorship
 -   Adding to your CV
@@ -25,7 +25,7 @@ There are plenty of reasons to participate:
 
 ### How?
 
-Most hackathons are free to join. Getting to the event and paying for your accommodations is another matter. Some scholarship opportuntities exist. Check first if the event you're interested in has such a program.
+Most hackathons are free to join. Getting to the event and paying for your accommodations is another matter. Some scholarship opportunities exist. Check first if the event you're interested in has such a program.
 
 Within Developer DAO, we're experimenting with a Hackathon Support Team which:
 
